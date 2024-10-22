@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**yus-ra17/yus-ra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a passionate full stack web developer 
+- 🚀 Skills
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express, MySQL
+- **Other**: Git, GitHub, RESTful APIs
+- 💬 Ask me about web development and how to get started with React.
+- 📫 How to reach me:
+ - [LinkedIn](https://www.linkedin.com/in/yusraaa/)
+ - [Portfolio](https://www.yusraaa.com/)
+- ⚡ Fact: I enjoy applying my coding skills to develop projects that can improve healthcare solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
